@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'twitter_bootstrap_form_for'
 require 'rails/railtie'
 
